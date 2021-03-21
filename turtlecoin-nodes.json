@@ -85,6 +85,20 @@
       "cache": false
     },
     {
+      "name": "FairCryptoCoins Node",
+      "url": "node.faircryptocoins.xyz",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "FairCryptoCoins Node - SSL",
+      "url": "node.faircryptocoins.xyz",
+      "port": 443,
+      "ssl": true,
+      "cache": false
+    },
+    {
       "name": "FastPooL.XyZ EU node - 10TRTL Fee",
       "url": "fastpool.xyz",
       "port": 11898,
