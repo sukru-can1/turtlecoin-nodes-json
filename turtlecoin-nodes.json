@@ -57,13 +57,6 @@
       "cache": false
     },
     {
-      "name": "Cuvéebits - United Kingdom",
-      "url": "uk.turtlecoin4ever.online",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "Donate.TRTL.Bot.Tips",
       "url": "trtl.bot.tips",
       "port": 80,
