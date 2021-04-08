@@ -169,6 +169,13 @@
       "cache": false
     },
     {
+      "name": "TeamMatix TurtleNode - Germany",
+      "url": "trtl.teammatix.eu",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "TurtlePay - Load Balancer",
       "url": "node.turtlepay.io",
       "port": 443,
