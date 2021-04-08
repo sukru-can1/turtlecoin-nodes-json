@@ -43,6 +43,13 @@
       "cache": false
     },
     {
+      "name": "Cryptoarm - The Netherlands",
+      "url": "turtle.cryptoarm.nl",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Cuvéebits - Czech Republic",
       "url": "cz.turtlecoin4ever.online",
       "port": 11898,
