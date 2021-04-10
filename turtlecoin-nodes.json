@@ -141,6 +141,13 @@
       "cache": false
     },
     {
+      "name": "llamaSoft - Canada",
+      "url": "llama.semsoft.ca",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Panther Web Services - TRTL Node [US]",
       "url": "trtl.sohamb03.me",
       "port": 2082,
