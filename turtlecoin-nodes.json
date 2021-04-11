@@ -140,13 +140,6 @@
       "ssl": false,
       "cache": false
     },
-     {
-      "name": "llamaSoft - Canada",
-      "url": "llama.semsoft.ca",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
     {
       "name": "llamaSoft - Canada",
       "url": "llama.semsoft.ca",
