@@ -204,6 +204,13 @@
       "cache": false
     },
     {
+      "name": "Veuchveuch node - EU",
+      "url": "turtlenode.tippyturtle.com",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Vmi Turtle Node",
       "url": "foolnode.tech",
       "port": 11898,
