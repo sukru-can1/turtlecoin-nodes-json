@@ -127,6 +127,13 @@
       "cache": false
     },
     {
+      "name": "TurtleTurtle.Club - CA",
+      "url": "lily.turtleturtle.club",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },    
+    {
       "name": "Veuchveuch node - EU",
       "url": "turtlenode.tippyturtle.com",
       "port": 11898,
