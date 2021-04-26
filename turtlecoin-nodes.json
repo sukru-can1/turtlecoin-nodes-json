@@ -99,6 +99,13 @@
       "cache": false
     },
     {
+      "name": "ProxyLogin.net - US",
+      "url": "trtl.proxylogin.net",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "PUBLIC SSL TurtleNode NET",
       "url": "public.turtlenode.net",
       "port": 443,
