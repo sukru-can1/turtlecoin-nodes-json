@@ -8,13 +8,6 @@
       "cache": false
     },
     {
-      "name": "Crappyrules - America",
-      "url": "turtle.imhard4.men",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "Cryptoarm - The Netherlands",
       "url": "turtle.cryptoarm.nl",
       "port": 11898,
