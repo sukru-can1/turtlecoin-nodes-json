@@ -1,6 +1,13 @@
 {
   "nodes": [
     {
+      "name": "TRTL China node - AWS JAPAN",
+      "url": "node.turtlecoinchina.com",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Another global TRTLnode",
       "url": "turtlecoin.ddns.us",
       "port": 11898,
