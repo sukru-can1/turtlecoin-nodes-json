@@ -1,6 +1,13 @@
 {
   "nodes": [
     {
+      "name": "Another global TRTLnode",
+      "url": "turtlecoin.ddns.us",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "BlackMulch TRTLnode",
       "url": "TRTLnode.ddns.net",
       "port": 11898,
