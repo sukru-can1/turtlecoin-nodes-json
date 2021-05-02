@@ -36,6 +36,13 @@
       "cache": false
     },
     {
+      "name": "Damaceno's lab node - South America",
+      "url": "damacenohomerouter.duckdns.org",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Donate.TRTL.Bot.Tips",
       "url": "trtl.bot.tips",
       "port": 80,
@@ -136,6 +143,13 @@
     {
       "name": "TurtleTurtle.Club - CA",
       "url": "lily.turtleturtle.club",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "University of Sao Paulo node - South America",
+      "url": "vistante-pc.ifsc.usp.br",
       "port": 11898,
       "ssl": false,
       "cache": false
