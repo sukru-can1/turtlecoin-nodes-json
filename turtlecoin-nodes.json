@@ -1,5 +1,12 @@
 {
   "nodes": [
+     {
+      "name": "A French TRTLnode",
+      "url": "turtlecoin.revz.fr",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
     {
       "name": "Another global TRTLnode",
       "url": "turtlecoin.ddns.us",
