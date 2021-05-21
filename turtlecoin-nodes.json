@@ -106,6 +106,13 @@
       "cache": false
     },
     {
+      "name": "metadevil",
+      "url": "trtl.metadevil.com",
+      "port": 5000,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Nordic Turtle Node - EU",
       "url": "turtlecoin.publicnode.eu",
       "port": 11898,
