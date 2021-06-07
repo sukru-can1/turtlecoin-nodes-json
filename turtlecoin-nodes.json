@@ -15,6 +15,20 @@
       "cache": false
     },
     {
+      "name": "AzPool Public node",
+      "url": "trtl-node.azpool.win",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "AzPool Public node - SSL",
+      "url": "trtl-node.azpool.win",
+      "port": 443,
+      "ssl": true,
+      "cache": false
+    },
+    {
       "name": "BlackMulch - US East",
       "url": "TRTLnode.ddns.net",
       "port": 11898,
