@@ -133,7 +133,7 @@
       "ssl": false,
       "cache": false
     },
-     {
+    {
       "name": "Node Turtle Coin EU",
       "url": "nodeturtlecoineu.ddns.net",
       "port": 5000,
