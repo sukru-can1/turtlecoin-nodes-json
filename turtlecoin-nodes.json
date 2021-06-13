@@ -134,6 +134,13 @@
       "cache": false
     },
     {
+      "name": "Node Turtle Coin EU",
+      "url": "nodeturtlecoineu.ddns.net",
+      "port": 5000,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Nordic Turtle Node - EU",
       "url": "turtlecoin.publicnode.eu",
       "port": 11898,
