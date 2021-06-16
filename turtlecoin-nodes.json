@@ -211,13 +211,6 @@
       "cache": false
     },
     {
-      "name": "University of Sao Paulo node - South America",
-      "url": "vistante-pc.ifsc.usp.br",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "Veuchveuch node - EU",
       "url": "turtlenode.tippyturtle.com",
       "port": 11898,
