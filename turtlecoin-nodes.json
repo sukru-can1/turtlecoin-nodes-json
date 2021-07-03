@@ -1,12 +1,20 @@
 {
   "nodes": [
-    	{
+    {
+      "name": "A Beast SSL TRTLnode",
+      "url": "publicssl.turtlenode.uk",
+      "port": 443,
+      "ssl": true,
+      "cache": false
+    }, 
+    {
       "name": "A Cowabunga TRTLnode",
       "url": "cowabunga.turtlenode.uk",
       "port": 11898,
       "ssl": false,
       "cache": false
     }, 
+    
     {
       "name": "A French TRTLnode",
       "url": "turtlecoin.revz.fr",
