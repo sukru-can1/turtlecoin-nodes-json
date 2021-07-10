@@ -1,41 +1,6 @@
 {
   "nodes": [
     {
-      "name": "A Beast SSL TRTLnode",
-      "url": "publicssl.turtlenode.uk",
-      "port": 443,
-      "ssl": true,
-      "cache": false
-    },
-    {
-      "name": "A Cowabunga TRTLnode",
-      "url": "cowabunga.turtlenode.uk",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "A French TRTLnode",
-      "url": "turtlecoin.revz.fr",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "A Scottish TRTLnode",
-      "url": "turtlenode.uk",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Another global TRTLnode",
-      "url": "turtlecoin.ddns.us",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "Antiban TRTLnode",
       "url": "trtl_node.antiban.org",
       "port": 11898,
@@ -52,6 +17,20 @@
     {
       "name": "AzPool Public node - SSL",
       "url": "trtl-node.azpool.win",
+      "port": 443,
+      "ssl": true,
+      "cache": false
+    },
+    {
+      "name": "Beast TRTLnode",
+      "url": "publicssl.turtlenode.uk",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Beast TRTLnode - SSL",
+      "url": "publicssl.turtlenode.uk",
       "port": 443,
       "ssl": true,
       "cache": false
@@ -75,6 +54,20 @@
       "url": "chelone.hopto.org",
       "port": 11898,
       "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Cowabunga TRTLnode",
+      "url": "cowabunga.turtlenode.uk",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Cowabunga TRTLnode - SSL",
+      "url": "cowabunga.turtlenode.uk",
+      "port": 443,
+      "ssl": true,
       "cache": false
     },
     {
@@ -131,6 +124,20 @@
       "url": "node.faircryptocoins.xyz",
       "port": 443,
       "ssl": true,
+      "cache": false
+    },
+    {
+      "name": "French TRTLnode",
+      "url": "turtlecoin.revz.fr",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Global TRTLnode",
+      "url": "turtlecoin.ddns.us",
+      "port": 11898,
+      "ssl": false,
       "cache": false
     },
     {
@@ -215,6 +222,20 @@
       "url": "public.turtlenode.net",
       "port": 11898,
       "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Scottish TRTLnode",
+      "url": "turtlenode.uk",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Scottish TRTLnode - SSL",
+      "url": "turtlenode.uk",
+      "port": 443,
+      "ssl": true,
       "cache": false
     },
     {
