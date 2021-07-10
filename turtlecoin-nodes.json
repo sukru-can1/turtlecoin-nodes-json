@@ -1,7 +1,14 @@
 {
   "nodes": [
-    {
-      "name": "A Beast SSL TRTLnode",
+   {
+      "name": "A Beast TRTLnode",
+      "url": "publicssl.turtlenode.uk",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+   },
+   {
+      "name": "A Beast TRTLnode - SSL",
       "url": "publicssl.turtlenode.uk",
       "port": 443,
       "ssl": true,
@@ -12,6 +19,13 @@
       "url": "cowabunga.turtlenode.uk",
       "port": 11898,
       "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "A Cowabunga TRTLnode - SSL",
+      "url": "cowabunga.turtlenode.uk",
+      "port": 443,
+      "ssl": true,
       "cache": false
     },
     {
@@ -26,6 +40,13 @@
       "url": "turtlenode.uk",
       "port": 11898,
       "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "A Scottish TRTLnode - SSL",
+      "url": "turtlenode.uk",
+      "port": 443,
+      "ssl": true,
       "cache": false
     },
     {
