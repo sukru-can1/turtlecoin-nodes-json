@@ -1,6 +1,20 @@
 {
   "nodes": [
     {
+      "name": "Ace TRTL Node",
+      "url": "ace.turtlenode.uk",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Ace TRTL Node - SSL",
+      "url": "ace.turtlenode.uk",
+      "port": 443,
+      "ssl": true,
+      "cache": false
+    },
+    {
       "name": "Antiban TRTLnode",
       "url": "trtl_node.antiban.org",
       "port": 11898,
