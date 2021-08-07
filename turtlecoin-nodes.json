@@ -183,13 +183,6 @@
       "cache": false
     },
     {
-      "name": "metadevil",
-      "url": "trtl.metadevil.com",
-      "port": 5000,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "MrBean.Dev Turtle Node",
       "url": "trtl.mrbeandev.ga",
       "port": 4040,
