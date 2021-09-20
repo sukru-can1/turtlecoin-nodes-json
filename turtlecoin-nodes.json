@@ -280,5 +280,12 @@
       "ssl": false,
       "cache": false
     }
+        {
+      "name": "EU - Naughty-Turtle",
+      "url": "fast.naughty-turtle.com",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    }
   ]
 }
