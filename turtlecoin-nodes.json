@@ -19,6 +19,7 @@
       "url": "trtl_node.antiban.org",
       "port": 11898,
       "ssl": false,
+      
       "cache": false
     },
     {
@@ -178,6 +179,13 @@
     {
       "name": "Mascarin's LAB node - South America",
       "url": "mascarins.duckdns.org",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+        {
+      "name": "Naughty-Turtle EU",
+      "url": "fast.naughty-turtle.com",
       "port": 11898,
       "ssl": false,
       "cache": false
