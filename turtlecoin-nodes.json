@@ -182,6 +182,14 @@
       "ssl": false,
       "cache": false
     },
+    
+        {
+      "name": "Naughty-Turtle - EU",
+      "url": "fast.naughty-turtle.com",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+          },
     {
       "name": "Node Turtle Coin EU",
       "url": "nodeturtlecoineu.ddns.net",
